@@ -1,5 +1,7 @@
 body{
 	background: url(a-white_texture-1454516.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	color: 45484c;
 	padding-top: 50px;
     	padding-right: 60px;
