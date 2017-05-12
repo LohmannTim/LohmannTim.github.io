@@ -4,7 +4,7 @@ background: url(a-white_texture-1454516.jpg);
 }
 
 body{
-	color: #4e5259;
+	color: grey;
 	padding-top: 50px;
     	padding-right: 60px;
     	padding-bottom: 50px;
@@ -14,6 +14,6 @@ body{
 form{
 	text-align: center;
 }
-#Company{
+h4{
 	border: 3px black
 }
