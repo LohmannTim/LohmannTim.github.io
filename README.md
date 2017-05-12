@@ -1,2 +1,2 @@
 # LohmannTim.github.io
-Resumes and Cover
+Resume and Cover
