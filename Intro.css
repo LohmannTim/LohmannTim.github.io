@@ -5,6 +5,10 @@ background: url(a-white_texture-1454516.jpg);
 
 body{
 	color: blue;
+	padding-top: 50px;
+    	padding-right: 30px;
+   	padding-bottom: 50px;
+    	padding-left: 80px;
 }
 
 form{
